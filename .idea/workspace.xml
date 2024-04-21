@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edf68ba2-04e2-4b5d-a6fe-732e47e922a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Desktop/CarRentalSystem/CarRentalSystem/source code/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/CarRentalSystem/CarRentalSystem/source code/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/QR Code Reader in JavaScript/cordova-plugin-qrscanner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/c++/qr-counter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/car/travel-plan-cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/cl/Velzck_Shop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/cloud project/E-CommerceWebsite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/code_bu1/Tech-Tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/codehef/codechef-bu-webpage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/ravi/E-CommerceWebsite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/stock/stocksight" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/company_page6.form" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/company_page6.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/company_page6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/company_page6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/Job_Portal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/Job_Portal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page1.form" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page1.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page4.form" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page4.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page5.form" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page5.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/NetBeansProjects/Job_Portal/src/job_portal/company_page5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kb2oXYDmeb9XXZNYkRNzPiZjNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rohan dabas&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edf68ba2-04e2-4b5d-a6fe-732e47e922a3" name="Changes" comment="" />
+      <created>1674229136808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674229136808</updated>
+    </task>
+    <servers />
+  </component>
+</project>
